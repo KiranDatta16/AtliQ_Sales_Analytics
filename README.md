@@ -1,3 +1,10 @@
+Atliq Sales Analytics:
+-------------------------------------------------------
+
+
+
+
+
 ## Sales Report :
 
 Sales monitoring and evaluation are crucial for understanding sales activities and performance. This involves tracking key performance indicators (KPIs) to identify sales patterns and trends. By analyzing this data, businesses can gain valuable insights into their sales effectiveness and areas for improvement.
