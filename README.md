@@ -1,32 +1,20 @@
 ## Sales Report :
 
-1. Empower business to monitor and evaluate their sales activities and performance.
-2. Identify sales patterns and track key performance indicators (KPIs)
+Sales monitoring and evaluation are crucial for understanding sales activities and performance. This involves tracking key performance indicators (KPIs) to identify sales patterns and trends. By analyzing this data, businesses can gain valuable insights into their sales effectiveness and areas for improvement.
 
-Customer Performance Report: (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/Customer%20Sales%20Report.pdf)
-  
-Market Performance vs Sales Targets Report: (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/Target%20vs%20MP.pdf)
- 
+## Finance Report:
 
-- **Importance of analyzing sales data:**.
+Financial performance evaluation plays a crucial role in supporting sound decision-making and effective communication with stakeholders. By analyzing financial data, organizations can benchmark their performance against industry peers and previous periods. This analysis provides a foundation for robust budgeting and forecasting, ensuring that financial planning aligns with strategic goals. Ultimately, this comprehensive approach instills confidence in the organization's financial outlook, enabling it to navigate challenges and capitalize on opportunities effectively.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+Reports View:
+--------------------------------------------------------------------------------
 
+1.Customer Performance Report: (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/Customer%20Sales%20Report.pdf)  
+2.Market Performance vs Sales Targets Report: (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/Target%20vs%20MP.pdf)
+3.Profit and Loss (P&L) reports by [Fiscal Year] (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/P%26L%20by%20Fiscal%20Year.pdf)
+4.Profit and Loss (P&L) reports by [Markets] (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Markets.pdf)
 
-## Finance Report :
-
-- **Project objective:** 
-
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year] (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/P%26L%20by%20Fiscal%20Year.pdf)
-  
-  **2.** Create Profit and Loss (P&L) reports by _[Markets] (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Markets.pdf)
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-  
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
-
-
+--------------------------------------------------------------
 ## Technical Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
