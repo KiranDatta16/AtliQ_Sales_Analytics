@@ -1,8 +1,6 @@
 Atliq Sales Analytics:
 -------------------------------------------------------
-
-
-
+The project involves analyzing Sales and Finance data of Atliq and creating a variety of sales and finance reports to encompass insights.
 
 
 ## Sales Report :
@@ -34,4 +32,4 @@ Reports View:
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Designing user-centric reports to generate insights.
 - [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x]	Understanding systematic approach to buld a report.
