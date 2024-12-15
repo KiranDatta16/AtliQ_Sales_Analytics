@@ -21,6 +21,7 @@ The report primarily focuses on showcasing the sales trends of customers for thr
 2.Market Performance vs Sales Targets Report: (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/Target%20vs%20MP.pdf)
 
 
+
 3.Profit and Loss (P&L) reports by [Fiscal Year] (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/P%26L%20by%20Fiscal%20Year.pdf)
 
 4.Profit and Loss (P&L) reports by [Markets] (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Markets.pdf)
