@@ -20,7 +20,7 @@ The report primarily focuses on showcasing the sales trends of customers for thr
 
 2.Market Performance vs Sales Targets Report: (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/Target%20vs%20MP.pdf)
 
-
+This report provides a comprehensive analysis of market performance across different countries, comparing actual sales achievements to pre-defined sales targets. By examining sales figures from 2019 to 2021, it highlights trends, identifies high-performing and underperforming markets, and ultimately informs strategic decision-making for resource allocation, market penetration strategies, and future target setting.
 
 3.Profit and Loss (P&L) reports by [Fiscal Year] (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/P%26L%20by%20Fiscal%20Year.pdf)
 
