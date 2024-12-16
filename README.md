@@ -30,11 +30,15 @@ This report provides an analysis of the Profit and Loss (P&L) performance for At
 
 This report provides a comprehensive breakdown of financial performance across global markets for Atliq Hardware. It elaborates on Profit & Loss (P&L) metrics like revenue (Net Sales), COGS and Gross Margin %. 
 
-5. Top 10 Products by Net Sales Growth% ([https://github.com/KiranDatta16/Atliq-Sales-Analytics/blob/168ab6ff9c265e53288e5635a8bc117d52ce7bf7/Top%2010%20Products.pdf]):
+5.Top 5 & Top 10 Products by Net Sales Growth% ([https://github.com/KiranDatta16/Atliq-Sales-Analytics/blob/168ab6ff9c265e53288e5635a8bc117d52ce7bf7/Top%2010%20Products.pdf]):
 
 This report lists the top 10 products based on their percentage sales growth between 2020 and 2021.
 
-7. Division Report: Analyses performance of different divisions:
+6.Division Report: [https://github.com/KiranDatta16/Atliq-Sales-Analytics/blob/d1e881e1b7de8fccf1232ebd03210d27da204963/division%20report.pdf]
+
+Analyses performance of different divisions
+
+7.
        
 
 --------------------------------------------------------------
