@@ -28,7 +28,7 @@ This report provides an analysis of the Profit and Loss (P&L) performance for At
 
 4.Profit and Loss (P&L) reports by [Markets] (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Markets.pdf)
 
-This report provides a comprehensive breakdown of financial performance across global markets for Atliq Hardware. It elaborates on Profit & Loss (P&L) metrics to evaluate revenue, costs, and profitability in various regions. 
+This report provides a comprehensive breakdown of financial performance across global markets for Atliq Hardware. It elaborates on Profit & Loss (P&L) metrics to evaluate revenue net sales), COGS and Gross Margin % in various regions. 
 
 5. Top 10 Products by Net Sales Growth%  (
 
