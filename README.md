@@ -24,14 +24,15 @@ This report provides a comprehensive analysis of market performance across diffe
 
 3.Profit and Loss (P&L) reports by [Fiscal Year] (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/P%26L%20by%20Fiscal%20Year.pdf)
 
-This report provides an analysis of the Profit and Loss (P&L) performance for Atliq Hardwares across various regions during fiscal year 2021. It details financial metrics to evaluate the revenue, cost efficiency, and profitability of each market.
+This report provides an analysis of the Profit and Loss (P&L) performance for Atliq Hardwares across various markets during fiscal year 2021. It details financial metrics like revenue (Net Sales), COGS, Gross Margin and Gross Margin %. 
 
 4.Profit and Loss (P&L) reports by [Markets] (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Markets.pdf)
 
-This report provides a comprehensive breakdown of financial performance across global markets for Atliq Hardware. It elaborates on Profit & Loss (P&L) metrics to evaluate revenue net sales), COGS and Gross Margin % in various regions. 
+This report provides a comprehensive breakdown of financial performance across global markets for Atliq Hardware. It elaborates on Profit & Loss (P&L) metrics like revenue (Net Sales), COGS and Gross Margin %. 
 
-5. Top 10 Products by Net Sales Growth%  (
+5. Top 10 Products by Net Sales Growth%  : This report lists the top 10 products based on their percentage sales growth between 2020 and 2021.
 
+6. Division Report: Analyses performance of different divisions
 
 --------------------------------------------------------------
 ## Technical Skills:
