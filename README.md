@@ -1,7 +1,6 @@
 Atliq Sales Analytics:
 -------------------------------------------------------
-The project involves analyzing Sales and Finance data of Atliq and creating a variety of sales and finance reports to encompass insights.
-
+To gain deep insights into Atliq's sales and financial performance by analyzing historical data and generating comprehensive reports. This analysis will inform strategic decision-making, identify areas for improvement, and optimize business operations.
 
 ## Sales Report :
 
