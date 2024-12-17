@@ -38,7 +38,12 @@ This report lists the top 10 products based on their percentage sales growth bet
 
 Analyses performance of different divisions
 
-7.
+7.GM % by Sub_Zone: 
+This report monitors Gross Margin Trends and tracks how efficiently the company retains revenue over time and across regions.
+Identifies year wise regional variation in Gorss Margin % for 2019,2020,2021.
+
+Focus on stabilizing profitability in underperforming regions while maintaining or improving strong sub-zones.
+
        
 
 --------------------------------------------------------------
