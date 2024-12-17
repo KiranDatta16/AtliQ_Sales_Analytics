@@ -11,7 +11,7 @@ Sales monitoring and evaluation are crucial for understanding sales activities a
 
 Financial performance evaluation plays a crucial role in supporting sound decision-making and effective communication with stakeholders. By analyzing financial data, organizations can benchmark their performance against industry peers and previous periods. This analysis provides a foundation for robust budgeting and forecasting, ensuring that financial planning aligns with strategic goals. Ultimately, this comprehensive approach instills confidence in the organization's financial outlook, enabling it to navigate challenges and capitalize on opportunities effectively.
 
-Reports View:
+Reports:
 --------------------------------------------------------------------------------
 
 1.Customer Sales Report: (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/Customer%20Sales%20Report.pdf)
