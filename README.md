@@ -37,12 +37,10 @@ This report lists the top 10 products based on their percentage sales growth bet
 
 Analyses performance of different divisions
 
-7.GM % by Sub_Zone: 
+7.GM % by Sub_Zone:([https://github.com/KiranDatta16/Atliq-Sales-Analytics/blob/001d8006010bde2c58a708c84df1e28f22f9db0c/GM%25%20by%20Sub_Zone.pdf])
 
-Identifies year wise regional variation in Gross Margin % for 2019,2020,2021.
-Focus on stabilizing profitability in underperforming regions while maintaining or improving strong sub-zones.
+Identifies year wise regional variation in Gross Margin % for 2019,2020,2021.Focus on stabilizing profitability in underperforming regions while maintaining or improving strong sub-zones.
 
-       
 
 --------------------------------------------------------------
 ## Technical Skills:
