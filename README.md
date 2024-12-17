@@ -24,7 +24,7 @@ This report provides a comprehensive analysis of market performance across diffe
 
 3.Profit and Loss (P&L) reports by [Fiscal Year] (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/P%26L%20by%20Fiscal%20Year.pdf)
 
-This report provides an analysis of the Profit and Loss (P&L) performance for Atliq Hardwares across various markets during fiscal year 2021. It details financial metrics like revenue (Net Sales), COGS, Gross Margin and Gross Margin %. 
+This report provides an analysis of the Profit and Loss (P&L) performance for Atliq Hardware across various markets during fiscal year 2021. It details financial metrics like revenue (Net Sales), COGS, Gross Margin and Gross Margin %. 
 
 4.Profit and Loss (P&L) reports by [Markets] (https://github.com/KiranDatta16/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Markets.pdf)
 
@@ -39,9 +39,8 @@ This report lists the top 10 products based on their percentage sales growth bet
 Analyses performance of different divisions
 
 7.GM % by Sub_Zone: 
-This report monitors Gross Margin Trends and tracks how efficiently the company retains revenue over time and across regions.
-Identifies year wise regional variation in Gorss Margin % for 2019,2020,2021.
 
+Identifies year wise regional variation in Gross Margin % for 2019,2020,2021.
 Focus on stabilizing profitability in underperforming regions while maintaining or improving strong sub-zones.
 
        
@@ -49,9 +48,9 @@ Focus on stabilizing profitability in underperforming regions while maintaining 
 --------------------------------------------------------------
 ## Technical Skills:
 - [x]	ETL methodology (Extract, Transform, Load).
-- [x]	Using Power Query and M language to generate a date table.
+- [x]	Power Query and M language to generate a date table.
 - [x]	Data cleaning, manipulation, merging and appending tables in Power Query.
-- [x]	Ability to derive and underatand business concepts like fiscal year, calendar year, quarter and fiscal months.
+- [x]	Ability to derive and understand business concepts like fiscal year, calendar year, quarter and fiscal months.
 - [x]	Establishing data model relationships with Power Pivot.
 - [x]	Data Analysis Expression (DAX) to create calculated columns.
 
