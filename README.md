@@ -1,4 +1,4 @@
-Atliq Sales Analytics:
+AtliQ Sales Analytics:
 -------------------------------------------------------
 To gain deep insights into Atliq's sales and financial performance by analyzing historical data and generating comprehensive reports. This analysis will inform strategic decision-making, identify areas for improvement, and optimize business operations.
 
